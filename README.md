@@ -11,8 +11,8 @@ Your job is to create an automated system to generate this information so that t
 * Run the required query on the database.
 * Log the progress of the code with appropriate timestamps.
 
-  You can read more about the project in my **[medium blog](https://medium.com/@aopiyo28/a-simple-python-etl-script-8d5f99ccf6a1)
-**
+  You can read more about the project in my [medium blog](https://medium.com/@aopiyo28/a-simple-python-etl-script-8d5f99ccf6a1)
+  
 
 
 
